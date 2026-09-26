@@ -1,8 +1,0 @@
-{
-  "redirects": [
-    { "source": "/", "destination": "/prize", "permanent": false }
-  ],
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
